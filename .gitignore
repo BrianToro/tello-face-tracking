@@ -14,3 +14,5 @@ assets/target_images/**
 !assets/target_images/.gitkeep
 
 .DS_Store
+
+.idea
